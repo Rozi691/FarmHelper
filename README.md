@@ -1,4 +1,3 @@
-https://discord.gg/6mSHC2Xd9y - official discord
 
 ![Github downloads](https://img.shields.io/github/downloads/JellyLabScripts/FarmHelper/total)
 
